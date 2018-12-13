@@ -1,4 +1,4 @@
-# 12-13-18b
+# First & Code
 We chose our color scheme because the colors in it were the colors our client included in his logo, and we thought that by keeping the colors the same, the website would look more uniform. We could not find the actual font that our client used in his logo, but we used the closest font we had access to and that looked most pleasing. We kept the background white and simple because again it went well with our client's logo, and our client preferred it to be that way. Overall, we wanted to incorporate all of our client's beliefs into our website, from his business practices to his beliefs about his future to the meaningful relationships he has with others. 
 
 When we checked for responsiveness with the Developer Tools, our website was responsive across all devices. However, when we actually tested our website to see how it looked on certain mobile devices, it did not look as good as we had hoped in portrait mode. It is best viewed in landscape mode.  
