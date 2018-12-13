@@ -1,0 +1,298 @@
+h1{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family:'Puritan', sans-serif;
+}
+h2{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family:'Puritan', sans-serif;}
+h3{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family:'Puritan', sans-serif;
+}
+h4{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family:'Puritan', sans-serif;
+}
+h5{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family:'Puritan', sans-serif;
+}
+h6{
+  text-align: center;
+  background-color: #BFBFBF;
+  margin-left: 40%;
+  margin-right: 40%;
+  font-family:'Puritan', sans-serif;
+}
+p{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+  font-family:'Puritan', sans-serif;
+}
+.res {
+    display: inline-block;
+    text-align:inherit;
+    max-height: 80%;
+    max-height:80%;    
+}
+
+img{
+display:block;
+margin-left: auto;
+margin-right: right;
+width: 20%;
+}
+
+.space{
+    max-width: 80%;
+    max-height: 80%;
+    margin-bottom: 11px;
+    margin-bottom: 10px;
+    align-content:center;
+}
+.responsive111 {
+    max-width: 100%;
+    max-height: 80%;
+    align-content:center;
+}
+.ul2{
+    display: inline-flex;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom:1%;
+    padding-top: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    max-width: 100%;
+    max-height: 80%;
+    background-color:black;
+    position: horizontal;
+    font-family:'Puritan', sans-serif;
+}
+.li2{ 
+  display: inline-flex;
+  padding-left: 1%;
+  padding-right: 1%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  margin-left: 1%;
+  margin-right: 1%;
+  max-width: 100%;
+  max-height: 80%;
+  position: horizontal;
+  font-family:'Puritan', sans-serif;
+  }
+ul {
+    overflow: hidden;
+    background-color: #111;
+    list-style-type: none;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    margin-top: 5%;
+    vertical-align:middle;
+    font-size: 30px;
+}
+li {
+    margin-left: 6.75%;
+    margin-right: 5px;
+}
+li a {
+    color: white;
+    font-size: 30px;
+}
+
+li a:hover {
+    background-color: #A52A2A;   
+}
+.tracks { 
+  padding-top: 10px;
+}
+ 
+body 
+  {background-color: white;}
+ 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 100px;
+    overflow: hidden;
+    background-color: #111;
+}
+li {
+    float: left;
+}
+li a {
+    display: ;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+}
+  h1,h2,div,h3,h4,p,div {
+  text-align:center;
+  font-size: 20px;
+}
+
+
+nav {
+/*  text-align:center;*/
+}
+ul {
+    list-style-type: none;
+    padding-left: 20%;
+    padding-right: 20;
+    overflow: hidden;
+    background-color: #111;
+}
+li {
+    float: left;
+}
+li a {
+    display: ;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+}
+video{
+    max-width: 80%;
+    max-height: 80%;
+    padding: 1%;
+    margin-bottom: 1%;
+    }
+.number{
+font-family:'Puritan', sans-serif;
+color:black;
+}
+.width{
+    max-width: 50%;
+    text-align: center;
+}
+
+.left{
+    text-align: left;
+    padding-left: 1%;
+    max-width: 50%;
+   
+}
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.fa-twitter {
+  background-color: #55ACEE;
+  color: white;
+}
+.fa-youtube {
+  background: #bb0000;
+  color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+.fa-rss {
+  background: #ff6600;
+  color: white;
+}
+nav {
+/*  text-align:center;*/
+}
+ul {
+    list-style-type: none;
+    padding-left: 20%;
+    padding-right: 20&
+    overflow: hidden;
+    background-color: #111;
+}
+li {
+    float: left;
+}
+li a {
+    display: ;
+    color: white;
+    text-align: center;
+    padding: 20px 16px;
+    text-decoration: none;
+}
+/* Change the link color to #696969(black) on hover */
+li a:hover {
+    background-color: #A52A2A;
+}
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<!-- Add font awesome icons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+...
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+/* Set a specific color for each brand */
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+@media only screen and (min-width: 768px),
+     only screen and (min-width: 700px) and (orientation: landscape) {
+
+@media only screen and (min-width: 1140px) {
+      
+html{ min-height: 100%;
+      min-width: 100%;
+    }
